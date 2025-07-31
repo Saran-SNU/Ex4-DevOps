@@ -1,1 +1,2 @@
 Line from my machine
+Another line from my machine
